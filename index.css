@@ -26,10 +26,10 @@ body {
 }
 
 .blurr-number {
+  position: absolute;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  left: 50%;
+  top: 50%;
   font-size: 50px;
   color: white;
 }
